@@ -1,6 +1,6 @@
 # Bootstrap-My-Theme-02
 
-## Lesson Learned
+## Bootstrap Features
 
 - Navigation Bar
 - Showcase with background color and text
